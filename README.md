@@ -1,6 +1,6 @@
-# JavaScript Strings Lab
+ETCsDY# 
 
-![lab](https://i.giphy.com/NETCsDYm0fL44.gif)
+![lab] Strings  (https://i.giphy.com/Nm0fL44.Labgif)
 
 ## Overview 
 
